@@ -8,6 +8,10 @@ Fazer login
   Login
 Acessar a Senha
   Digitar senha
-  #seleciono consorcio de imovel
-#Simulação de consorcio
-  #Simulação de um consorcio de imovel
+Conferir campos
+  Visualizar o campo dados cadastrais 
+  Visualizar card de pontos
+  Visualizar o campo perfil do investidor
+  Visualizar campo parceiro de negocios
+#Validar Usuario
+ # Visualizo o nome do cliente
