@@ -15,3 +15,5 @@ Conferir campos
   Visualizar campo parceiro de negocios
 #Validar Usuario
  # Visualizo o nome do cliente
+
+
